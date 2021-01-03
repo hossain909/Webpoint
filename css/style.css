@@ -117,8 +117,9 @@ nav {
 /* WORK  SECTION */ 
 /*===============================*/
 .work-section {
-    background: linear-gradient(rgba(103, 107, 107, 0.548), rgba(238, 171, 252, 0.568));
+    background: linear-gradient(rgba(150, 7, 109, 0.911), rgba(161, 138, 7, 0.945));
     text-align: center;
+    color: #fff;
 }
 .work-section span i::before {
     font-size: 50px;
